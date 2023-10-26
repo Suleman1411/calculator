@@ -9,7 +9,7 @@ A simple command-line calculator built with Node.js, Inquirer, and Chalk for col
 
 ## Usage
 
-1. Run the calculator with `npm start`.
+1. Run the calculator with `node index.js`.
 2. Choose an operation from the menu.
 3. Enter the required numbers.
 4. View the result in colorful Chalk formatting.
